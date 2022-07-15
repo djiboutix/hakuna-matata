@@ -1,0 +1,43 @@
+body {
+    color: #3A4145;
+}
+
+/* Content / Sections */
+.post-holder.odd {
+    background: #021969;
+    color: white;
+}
+
+.post-holder {
+    background: #f2efe8;
+}
+
+/* Links */
+a:hover {
+    color: #f5e00d;
+}
+
+/* Header Buttons on Startpage */
+a.btn {
+    color: rgb(0, 0, 0);
+    background-color: #f5e00d;
+}
+
+a.btn:hover {
+    background-color: #b6b84c;
+}
+
+/* Scroll Menu on Startpage */
+a.fn-item.active {
+    color: #f5e00d;
+}
+
+a.fn-item:hover {
+    color: #ced067;
+}
+
+/* Footer */
+.site-footer {
+    color: #BBC7CC;
+    background-color: #22343A;
+}
